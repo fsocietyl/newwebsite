@@ -1,0 +1,408 @@
+{
+  "nav": {
+    "home": "Home",
+    "brands": "Brands",
+    "collections": "Collections",
+    "projects": "Projects",
+    "products": "Products",
+    "newProducts": "Store",
+    "stores": "Stores",
+    "news": "News",
+    "about": "About",
+    "contact": "Contact",
+    "orders": "Custom Order",
+    "admin": "Admin",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "brand": {
+    "name": "Sign Dış Ticaret"
+  },
+  "aboutPage": {
+    "heroDescription": "{{brand}} delivers modern and classic furniture with full interior design solutions—fusing elegance with function for homes, hospitality, and workplaces.",
+    "craft": {
+      "title": "Modern & classic furniture house",
+      "subtitle": "We create unique furniture and interior concepts that blend refinement with practicality, adding a signature touch to every living or working space.",
+      "bullet1": "Producers and distributors of both modern and classic furnishings and décor.",
+      "bullet2": "Integrated design, material, and lighting solutions tailored to each client journey.",
+      "bullet3": "Concierge support in multiple languages to keep projects moving with precision."
+    },
+    "timeline1": {
+      "title": "Craft roots",
+      "description": "{{brand}} begins as a passionate team in modern and classic furniture and interior décor."
+    },
+    "timeline2": {
+      "title": "Production & distribution",
+      "description": "We expand into producing and distributing premium furnishings with curated décor lines."
+    },
+    "timeline3": {
+      "title": "Turnkey interiors",
+      "description": "Complete interior concepts with custom materials, lighting, and installation partners."
+    },
+    "timeline4": {
+      "title": "Global concierge",
+      "description": "Multilingual project support and rapid presentations delivered across regions."
+    },
+    "stats": {
+      "years": "Years shaping interiors",
+      "projects": "Projects delivered annually",
+      "studios": "Studios & ateliers",
+      "partners": "Craft partners worldwide"
+    }
+  },
+  "productsPage": {
+    "title": "Signature Pieces",
+    "subtitle": "Curated silhouettes from our ateliers. Request detailed specifications via the product detail view.",
+    "hint": "Tap any product to view its details, description, and price."
+  },
+  "newProductsPage": {
+    "title": "Store",
+    "subtitle": "Discover curated pieces from our collections.",
+    "hint": "Explore the store in your language."
+  },
+  "homePage": {
+    "heroLineStart": "A floating archive of",
+    "heroLineAccent": "European",
+    "heroLineEnd": "objects.",
+    "craftEyebrow": "Our craft",
+    "statementLineOne": "Crafted for",
+    "statementLineTwo": "Extraordinary Spaces",
+    "openProduct": "Open Product",
+    "whatsApp": "WhatsApp"
+  },
+  "storePage": {
+    "heroTitle": "New In",
+    "allCategories": "All",
+    "emptyCategory": "No products found in this category.",
+    "newArrival": "New Arrival",
+    "viewDetails": "View Details",
+    "cart": "Cart",
+    "cartTitle": "Your Cart",
+    "cartEmpty": "Your cart is empty.",
+    "cartCheckout": "Buy via WhatsApp",
+    "addToCart": "Add to Cart",
+    "buy": "Contact us on WhatsApp",
+    "buyDirect": "Buy on WhatsApp",
+    "whatsAppAria": "Chat with us on WhatsApp",
+    "whatsAppTooltip": "Chat with us",
+    "sampleName": "Store Sample Product",
+    "sampleDescription": "A curated example item displayed in the store. Full details will be added soon.",
+    "sampleName2": "Store Sample Product 2",
+    "sampleDescription2": "Second example product for the store layout. Details will be updated."
+  },
+  "cta": {
+    "exploreBrands": "Explore Brands",
+    "viewCollections": "View Collections",
+    "discoverProjects": "Discover Projects",
+    "requestCatalogue": "Request Catalogue",
+    "bookAppointment": "Book Appointment",
+    "requestPrice": "Request Price",
+    "visitStore": "Visit Store",
+    "viewProject": "View Project",
+    "viewProduct": "View Product",
+    "openAllLanguages": "Open the product in all languages",
+    "openToSee": "Open to see",
+    "subscribe": "Subscribe",
+    "syncToFirestore": "Sync Seed Data",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "filter": "Filter",
+    "search": "Search",
+    "close": "Close",
+    "projectStory": "Project Story"
+  },
+  "productPage": {
+    "materials": "Materials",
+    "finishes": "Finishes",
+    "dimensions": "Dimensions",
+    "whatsAppOrder": "WhatsApp Order",
+    "openImage": "Open Image"
+  },
+  "ordersPage": {
+    "highlightConciergeTitle": "Dedicated atelier concierge",
+    "highlightConciergeDesc": "One-on-one follow up with sketches, pricing, and finish boards within 24 hours.",
+    "highlightSizingTitle": "Precision sizing",
+    "highlightSizingDesc": "Share measurements and we optimize ergonomics, module splits, and shipping specs.",
+    "highlightMaterialsTitle": "Material library access",
+    "highlightMaterialsDesc": "Bouclé, silk velvet, brass, marble, and lacquer libraries curated by our studio.",
+    "formBadge": "Order Brief",
+    "formTitle": "Share your measurements",
+    "formSubtitle": "Attach as much detail as possible—our ateliers translate each note into technical drawings.",
+    "processBadge": "Process",
+    "process1": {
+      "title": "Discovery",
+      "desc": "Curators confirm function, volume, and finish direction."
+    },
+    "process2": {
+      "title": "Atelier Draft",
+      "desc": "CAD + fabric proposals shared in 24 hours."
+    },
+    "process3": {
+      "title": "Production",
+      "desc": "6–8 weeks average lead time with white-glove freight."
+    },
+    "whyBadge": "Why clients love this",
+    "conciergeBadge": "Concierge",
+    "phone": "+90 506 138 01 11",
+    "email": "info@sign-d.net",
+    "conciergeNote": "3D boards & finish palettes on demand"
+  },
+  "sections": {
+    "heroTitle": "Crafting luxury interiors for remarkable lives.",
+    "heroSubtitle": "A curated portfolio of furniture, collections, and bespoke projects across the globe.",
+    "featuredBrands": "Featured Brands",
+    "collections": "Collections",
+    "projects": "Curated Projects",
+    "stores": "Global Stores",
+    "news": "Latest News",
+    "newsletter": "Join the private list",
+    "newsletterSubtitle": "Monthly highlights on new collections, collaborations, and invitations.",
+    "projectsHighlightTitle": "Immersive commissions",
+    "projectsHeroTitle": "Curated Project Suite",
+    "projectsHeroSubtitle": "Private residences, bespoke lounges, and hospitality moments shaped by Sign Dış Ticaret artisans.",
+    "aboutStory": "We began as a collective passionate about modern and classical furniture, operating in this field for nearly 30 years. Over time we started sharing our creative ideas in the furniture and décor space and worked to turn them into high-quality pieces fit for the international market.",
+    "craftsmanship": "Craftsmanship",
+    "timeline": "Timeline",
+    "stats": "Key Figures",
+    "contact": "Contact Us",
+    "privatePresentationTitle": "Private presentation",
+    "privatePresentationDescription": "Share your project brief and our concierge will arrange a multilingual video session or atelier visit within 24 hours.",
+    "legalPrivacy": "Privacy Policy",
+    "legalTerms": "Terms & Conditions",
+    "relatedProducts": "Related Products",
+    "customOrderTitle": "Bespoke Order Atelier",
+    "customOrderSubtitle": "Describe the piece you need, preferred dimensions, and any finishing touches. Our design team will reply with sketches and pricing within 24 hours."
+  },
+  "projectTypes": {
+    "residential": "Residential",
+    "hospitality": "Hospitality",
+    "retail": "Retail",
+    "institutional": "Institutional"
+  },
+  "contactPage": {
+    "intro": "Send us your brief for residences, hospitality projects, or bespoke furniture by email or phone.",
+    "headOffice": "Head Office",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "contactLabel": "Contact",
+    "officeAddress": "Hamidiye, Serdar Sk. No:28/B, 34408 Kâğıthane, Istanbul, Turkey 34408"
+  },
+  "footer": {
+    "tagline": "Global House of Interior Excellence",
+    "contactLabel": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "rights": "All rights reserved",
+    "links": {
+      "title": "Quick Links"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "heading": "A library of considered interiors."
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "message": "Message",
+    "intent": "Intent",
+    "intentGeneral": "General Inquiry",
+    "intentAppointment": "Appointment Request",
+    "intentPartnership": "Partnership",
+    "desiredProduct": "Product or piece",
+    "usageContext": "Intended space / use case",
+    "dimensionsDetail": "Dimensions & sizing",
+    "materialNotes": "Material preferences",
+    "finishNotes": "Finish or upholstery",
+    "quantity": "Quantity",
+    "budget": "Budget range (optional)",
+    "references": "Reference links (optional)",
+    "photoUpload": "Upload a photo (optional)",
+    "photoUrl": "Photo URL (optional)",
+    "submit": "Submit",
+    "success": "Your message has been received.",
+    "error": "Something went wrong. Please try again.",
+    "newsletterPlaceholder": "Enter your email"
+  },
+  "filters": {
+    "country": "Country",
+    "city": "City",
+    "type": "Type",
+    "category": "Category",
+    "brand": "Brand",
+    "priceTier": "Price tier"
+  },
+  "storeCategories": {
+    "mirror": "Mirror",
+    "coffeeTable": "Coffee Table",
+    "frame": "Frame",
+    "pullUpBar": "Pull-Up Bar",
+    "dresser": "Dresser",
+    "diningTable": "Dining Table",
+    "sideTable": "Side Table",
+    "poufBench": "Pouf & Bench",
+    "armchair": "Armchair",
+    "console": "Console",
+    "bed": "Bed",
+    "bedroomSet": "Bedroom Set",
+    "nightstand": "Nightstand",
+    "diningChair": "Dining Chair",
+    "gardenTable": "Garden Table",
+    "displayCabinet": "Display Cabinet",
+    "teaSetSofa": "Tea Set Sofa Group",
+    "sofa": "Sofa",
+    "headboard": "Headboard",
+    "furnitureHardware": "Furniture Hardware",
+    "lock": "Lock",
+    "paintVarnish": "Wood Paint & Varnish",
+    "doorHardware": "Door Hardware",
+    "mirrorShelf": "Mirror Shelf",
+    "officeChair": "Office Chair",
+    "rollingChair": "Rolling Chair",
+    "bathroomShelves": "Bathroom Shelves",
+    "tvUnit": "TV Unit",
+    "wallShelf": "Wall Shelf",
+    "gardenChair": "Garden Chair",
+    "sofaSet": "Sofa Set",
+    "fasteners": "Screws, Nails & Anchors",
+    "insulation": "Insulation Materials"
+  },
+  "admin": {
+    "welcome": "Admin Panel",
+    "brands": "Manage Brands",
+    "products": "Manage Products",
+    "projects": "Manage Projects",
+    "stores": "Manage Stores",
+    "news": "Manage News",
+    "loginTitle": "Admin Login",
+    "email": "Admin Email",
+    "password": "Password",
+    "logout": "Sign out",
+    "sync": "Sync seed content to Firestore"
+  },
+  "status": {
+    "loading": "Loading...",
+    "empty": "No items available yet."
+  },
+  "storesPage": {
+    "title": "Stores & Galleries",
+    "subtitle": "Visit our salons and ateliers around the world.",
+    "viewMap": "View map",
+    "address": "Address",
+    "hours": "Hours",
+    "phone": "Phone",
+    "email": "Email"
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyBody1": "This privacy statement describes how Sign Foreign Trade (Sign Dış Ticaret) collects, uses, and protects personal data when you browse our website, subscribe to newsletters, or contact our concierge team.",
+    "privacyBody2": "We gather contact information and project notes solely to fulfill service requests. Data is stored securely via Firebase and can be deleted at any time upon request.",
+    "privacyBody3": "For any questions please contact info@sign-d.net.",
+    "termsTitle": "Terms & Conditions",
+    "termsBody1": "By accessing Sign Foreign Trade (Sign Dış Ticaret) digital experiences, you agree not to reuse content, photography, or trademarks without prior consent. All purchases and bespoke orders are governed by signed project contracts referencing deliverables, timelines, and payment schedules.",
+    "termsBody2": "Usage of this site constitutes acceptance of our privacy statement and cookie policies. Governing law is Italy and disputes shall be settled in Milan."
+  },
+  "products": {
+    "title": "Collection",
+    "subtitle": "Curated silhouettes and bespoke furniture pieces.",
+    "filter": {
+      "all": "All"
+    },
+    "empty": "No products found",
+    "card": {
+      "view": "View Product"
+    }
+  },
+  "projects": {
+    "title": "Our Work",
+    "subtitle": "Selected hospitality, residential, and commercial commissions.",
+    "view": "View Project",
+    "empty": "No projects found"
+  },
+  "project": {
+    "year": "Year",
+    "type": "Type",
+    "location": "Location",
+    "related": "Related Products",
+    "gallery": "Gallery",
+    "breadcrumb": {
+      "projects": "Projects"
+    }
+  },
+  "stores": {
+    "title": "Our Locations",
+    "subtitle": "Visit our global design destinations.",
+    "hours": "Opening Hours",
+    "directions": "Get Directions",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Talk to our team about furniture, sourcing, and interiors.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "office": "Head Office"
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Three decades of crafted interiors.",
+    "craftsmanship": {
+      "title": "Craftsmanship",
+      "quote": "Crafted details, lasting rooms.",
+      "description": "We shape refined interiors with patient materials and hand-finished detail."
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "1994": {
+        "title": "Craft roots",
+        "description": "Our foundation in furniture and décor production begins."
+      },
+      "2008": {
+        "title": "Production & distribution",
+        "description": "We expand into premium furnishings and curated décor lines."
+      },
+      "2018": {
+        "title": "Turnkey interiors",
+        "description": "We begin delivering integrated interior concepts across multiple sectors."
+      },
+      "2024": {
+        "title": "Global concierge",
+        "description": "Multilingual presentations and project coordination reach international clients."
+      }
+    },
+    "stats": {
+      "title": "By The Numbers"
+    }
+  },
+  "whatsapp": {
+    "tooltip": "Chat with us",
+    "message": "Hello, I am interested in your furniture"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Use"
+  },
+  "notfound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for does not exist",
+    "back": "Return Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "view_all": "View All",
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us"
+  }
+}

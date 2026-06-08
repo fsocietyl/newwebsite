@@ -1,0 +1,408 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "brands": "Markalar",
+    "collections": "Koleksiyonlar",
+    "projects": "Projeler",
+    "products": "Ürünler",
+    "newProducts": "Mağaza",
+    "stores": "Mağazalar",
+    "news": "Haberler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "orders": "Özel Sipariş",
+    "admin": "Yönetim",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat"
+  },
+  "brand": {
+    "name": "Sign Dış Ticaret"
+  },
+  "aboutPage": {
+    "heroDescription": "{{brand}}, modern ve klasik mobilyayı kapsayan, tam kapsamlı iç mimari ve dekorasyon çözümleri sunar; her yaşam ve çalışma alanına şıklık ve işlev katar.",
+    "craft": {
+      "title": "Modern ve klasik mobilya evi",
+      "subtitle": "Her alana farklılık katan, zarafet ve işlevi birleştiren özgün mobilya ve iç mekân konseptleri oluşturuyoruz.",
+      "bullet1": "Modern ve klasik mobilya ile dekor ürünlerinin üreticisi ve distribütörüyüz.",
+      "bullet2": "Her proje için malzeme, aydınlatma ve tasarım dâhil bütüncül çözümler sunarız.",
+      "bullet3": "Çok dilli concierge desteğiyle süreçleri hızlı ve hatasız tutuyoruz."
+    },
+    "timeline1": {
+      "title": "Ustalıkla başlayan yolculuk",
+      "description": "{{brand}}, modern ve klasik mobilya ile iç dekorasyona tutkuyla bağlı bir ekip olarak yaklaşık 30 yıl önce yola çıktı."
+    },
+    "timeline2": {
+      "title": "Üretim ve dağıtım",
+      "description": "Premium mobilya üretimi ve seçilmiş dekor koleksiyonlarının dağıtımına genişledik."
+    },
+    "timeline3": {
+      "title": "Anahtar teslim iç mekânlar",
+      "description": "Özel malzeme, aydınlatma ve montaj iş ortaklarıyla tamamlayıcı iç mekân konseptleri sunuyoruz."
+    },
+    "timeline4": {
+      "title": "Küresel concierge",
+      "description": "Bölgeler arası projeler için çok dilli destek ve hızlı sunumlar sağlıyoruz."
+    },
+    "stats": {
+      "years": "Yıllık tasarım deneyimi",
+      "projects": "Yıllık teslim edilen proje",
+      "studios": "Stüdyo ve atölye",
+      "partners": "Dünya çapı zanaat ortağı"
+    }
+  },
+  "productsPage": {
+    "title": "İmza Parçalar",
+    "subtitle": "Atölyelerimizden seçili silüetler. Detaylı spesifikasyonlar için ürün sayfasından talep edin.",
+    "hint": "Detaylarını, açıklamasını ve fiyatını görmek için herhangi bir ürüne dokunun."
+  },
+  "newProductsPage": {
+    "title": "Mağaza",
+    "subtitle": "Koleksiyonlarımızdan seçili parçaları keşfedin.",
+    "hint": "Mağazayı kendi dilinizde inceleyin."
+  },
+  "homePage": {
+    "heroLineStart": "Avrupa'nın",
+    "heroLineAccent": "seçili",
+    "heroLineEnd": "objelerinden oluşan yüzen bir arşiv.",
+    "craftEyebrow": "Zanaatımız",
+    "statementLineOne": "Olağanüstü",
+    "statementLineTwo": "Mekânlar İçin Üretildi",
+    "openProduct": "Ürünü Aç",
+    "whatsApp": "WhatsApp"
+  },
+  "storePage": {
+    "heroTitle": "Yeni Gelenler",
+    "allCategories": "Tümü",
+    "emptyCategory": "Bu kategoride ürün bulunamadı.",
+    "newArrival": "Yeni Gelen",
+    "viewDetails": "Detayı Gör",
+    "cart": "Sepet",
+    "cartTitle": "Sepetiniz",
+    "cartEmpty": "Sepetiniz boş.",
+    "cartCheckout": "WhatsApp ile satın al",
+    "addToCart": "Sepete Ekle",
+    "buy": "WhatsApp ile iletişime geç",
+    "buyDirect": "WhatsApp üzerinden satın al",
+    "whatsAppAria": "WhatsApp üzerinden bizimle iletişime geçin",
+    "whatsAppTooltip": "Bizimle yazışın",
+    "sampleName": "Mağaza Örnek Ürün",
+    "sampleDescription": "Mağazada gösterilen örnek bir ürün. Detaylar yakında eklenecek.",
+    "sampleName2": "Mağaza Örnek Ürün 2",
+    "sampleDescription2": "Mağaza düzeni için ikinci örnek ürün. Detaylar güncellenecek."
+  },
+  "cta": {
+    "exploreBrands": "Markaları Keşfet",
+    "viewCollections": "Koleksiyonları Gör",
+    "discoverProjects": "Projeleri İncele",
+    "requestCatalogue": "Katalog Talep Et",
+    "bookAppointment": "Randevu Al",
+    "requestPrice": "Fiyat Talep Et",
+    "visitStore": "Mağazayı Gör",
+    "viewProject": "Projeyi Gör",
+    "viewProduct": "Ürünü Gör",
+    "openAllLanguages": "Ürünü tüm dillerde aç",
+    "openToSee": "Görmek için aç",
+    "subscribe": "Abone Ol",
+    "syncToFirestore": "Seed veriyi senkronize et",
+    "add": "Ekle",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "filter": "Filtrele",
+    "search": "Ara",
+    "close": "Kapat",
+    "projectStory": "Proje Hikayesi"
+  },
+  "productPage": {
+    "materials": "Malzemeler",
+    "finishes": "Yüzeyler",
+    "dimensions": "Ölçüler",
+    "whatsAppOrder": "WhatsApp Siparişi",
+    "openImage": "Görseli Aç"
+  },
+  "ordersPage": {
+    "highlightConciergeTitle": "Özel atölye concierge",
+    "highlightConciergeDesc": "24 saat içinde çizim, fiyat ve kaplama panolarıyla bire bir takip.",
+    "highlightSizingTitle": "Hassas ölçülendirme",
+    "highlightSizingDesc": "Ölçülerinizi paylaşın; ergonomi, modül bölümleri ve sevkiyat detaylarını optimize edelim.",
+    "highlightMaterialsTitle": "Malzeme kütüphanesi erişimi",
+    "highlightMaterialsDesc": "Buklet, ipek kadife, pirinç, mermer ve lake arşivi stüdyomuz tarafından seçili.",
+    "formBadge": "Sipariş Özeti",
+    "formTitle": "Ölçülerinizi paylaşın",
+    "formSubtitle": "Ne kadar detay paylaşırsanız, atölyelerimiz o notları teknik çizimlere aktarır.",
+    "processBadge": "Süreç",
+    "process1": {
+      "title": "Keşif",
+      "desc": "Küratörler işlev, hacim ve kaplama yönünü netleştirir."
+    },
+    "process2": {
+      "title": "Atölye Taslağı",
+      "desc": "CAD + kumaş önerileri 24 saat içinde paylaşılır."
+    },
+    "process3": {
+      "title": "Üretim",
+      "desc": "Beyaz eldiven lojistikle ortalama 6–8 hafta termin."
+    },
+    "whyBadge": "Neden tercih ediliyor?",
+    "conciergeBadge": "Concierge",
+    "phone": "+90 506 138 01 11",
+    "email": "info@sign-d.net",
+    "conciergeNote": "İstenildiğinde 3D panolar ve kaplama seçenekleri"
+  },
+  "sections": {
+    "heroTitle": "Olağanüstü yaşamlar için lüks iç mekânlar.",
+    "heroSubtitle": "Dünya çapında mobilya, koleksiyon ve projelerden seçkin bir portföy.",
+    "featuredBrands": "Öne Çıkan Markalar",
+    "collections": "Koleksiyonlar",
+    "projects": "Seçili Projeler",
+    "stores": "Küresel Mağazalar",
+    "news": "Son Haberler",
+    "newsletter": "Özel listeye katıl",
+    "newsletterSubtitle": "Yeni koleksiyonlar ve davetler için aylık haberler.",
+    "projectsHighlightTitle": "Sürükleyici projeler",
+    "projectsHeroTitle": "Seçkin Proje Galerisi",
+    "projectsHeroSubtitle": "Sign Dış Ticaret ustalarının imzasını taşıyan rezidanslar, lounge alanları ve hospitality projeleri.",
+    "aboutStory": "Modern ve klasik mobilyaya tutkulu bir ekibiz. Yaklaşık 30 yıldır bu alanda çalışıyor, yaratıcı fikirlerimizi paylaşıp uluslararası pazara sunulabilecek yüksek kaliteli ürünlere dönüştürüyoruz.",
+    "craftsmanship": "Ustalık",
+    "timeline": "Zaman Çizelgesi",
+    "stats": "Temel Rakamlar",
+    "contact": "Bize Ulaşın",
+    "privatePresentationTitle": "Özel sunum",
+    "privatePresentationDescription": "Proje özetinizi paylaşın; ekibimiz 24 saat içinde çok dilli bir video toplantısı veya atölye ziyareti organize etsin.",
+    "legalPrivacy": "Gizlilik Politikası",
+    "legalTerms": "Şartlar ve Koşullar",
+    "relatedProducts": "İlgili Ürünler",
+    "customOrderTitle": "Özel Sipariş Atölyesi",
+    "customOrderSubtitle": "İhtiyacınız olan ürünü, ölçüleri ve tasarım notlarını paylaşın; ekiplerimiz 24 saat içinde çizim ve teklif ile dönüş yapsın."
+  },
+  "projectTypes": {
+    "residential": "Residans",
+    "hospitality": "Hospitality",
+    "retail": "Perakende",
+    "institutional": "Kurumsal"
+  },
+  "contactPage": {
+    "intro": "Rezidans, otel veya özel üretim mobilya taleplerinizi e-posta ya da telefonla bize iletebilirsiniz.",
+    "headOffice": "Merkez Ofis",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-posta",
+    "contactLabel": "İletişim",
+    "officeAddress": "Hamidiye, Serdar Sk. No:28/B, 34408 Kâğıthane, İstanbul, Türkiye 34408"
+  },
+  "footer": {
+    "tagline": "Küresel iç mekân mükemmeliyeti",
+    "contactLabel": "İletişim",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "rights": "Tüm hakları saklıdır",
+    "links": {
+      "title": "Hızlı Bağlantılar"
+    },
+    "contact": {
+      "title": "İletişim"
+    },
+    "heading": "Seçkin iç mekânların arşivi."
+  },
+  "forms": {
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "phone": "Telefon (opsiyonel)",
+    "message": "Mesaj",
+    "intent": "Talep Türü",
+    "intentGeneral": "Genel Bilgi",
+    "intentAppointment": "Randevu Talebi",
+    "intentPartnership": "İş Ortaklığı",
+    "desiredProduct": "Talep edilen ürün / parça",
+    "usageContext": "Kullanım alanı",
+    "dimensionsDetail": "Ölçüler & ebatlar",
+    "materialNotes": "Malzeme tercihleri",
+    "finishNotes": "Kaplama / döşeme notu",
+    "quantity": "Adet",
+    "budget": "Bütçe aralığı (opsiyonel)",
+    "references": "Referans bağlantıları (opsiyonel)",
+    "photoUpload": "Fotoğraf yükle (opsiyonel)",
+    "photoUrl": "Fotoğraf linki (opsiyonel)",
+    "submit": "Gönder",
+    "success": "Mesajınız alındı.",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "newsletterPlaceholder": "E-posta adresiniz"
+  },
+  "filters": {
+    "country": "Ülke",
+    "city": "Şehir",
+    "type": "Tür",
+    "category": "Kategori",
+    "brand": "Marka",
+    "priceTier": "Fiyat seviyesi"
+  },
+  "storeCategories": {
+    "mirror": "Ayna",
+    "coffeeTable": "Orta Sehpa",
+    "frame": "Çerçeve",
+    "pullUpBar": "Barfiks & Şınav Barı",
+    "dresser": "Şifonyer",
+    "diningTable": "Yemek Masası",
+    "sideTable": "Yan Sehpa",
+    "poufBench": "Puf & Bench",
+    "armchair": "Berjer",
+    "console": "Dresuar",
+    "bed": "Yatak",
+    "bedroomSet": "Yatak Odası Takımı",
+    "nightstand": "Komodin",
+    "diningChair": "Yemek Odası Sandalyesi",
+    "gardenTable": "Bahçe Masası",
+    "displayCabinet": "Vitrin & Gümüşlük",
+    "teaSetSofa": "Çay Seti Koltuk Takımı",
+    "sofa": "Kanepe",
+    "headboard": "Yatak / Baza Başlığı",
+    "furnitureHardware": "Mobilya Hırdavatı",
+    "lock": "Kilit",
+    "paintVarnish": "Ahşap Boya & Vernik",
+    "doorHardware": "Kapı Hırdavatı",
+    "mirrorShelf": "Ayna Etajeri",
+    "officeChair": "Çalışma Sandalyesi",
+    "rollingChair": "Tekerlekli Sandalye",
+    "bathroomShelves": "Banyo Rafları",
+    "tvUnit": "TV Sehpa & Ünitesi",
+    "wallShelf": "Duvar Rafı",
+    "gardenChair": "Bahçe Sandalyesi",
+    "sofaSet": "Koltuk Takımı",
+    "fasteners": "Vida & Çivi & Dübel",
+    "insulation": "Yalıtım Malzemesi"
+  },
+  "admin": {
+    "welcome": "Yönetim Paneli",
+    "brands": "Markaları Yönet",
+    "products": "Ürünleri Yönet",
+    "projects": "Projeleri Yönet",
+    "stores": "Mağazaları Yönet",
+    "news": "Haberleri Yönet",
+    "loginTitle": "Yönetici Girişi",
+    "email": "Yönetici E-postası",
+    "password": "Şifre",
+    "logout": "Çıkış yap",
+    "sync": "Seed içeriği Firestore'a aktar"
+  },
+  "status": {
+    "loading": "Yükleniyor...",
+    "empty": "Henüz içerik bulunmuyor."
+  },
+  "storesPage": {
+    "title": "Mağazalar ve Galeriler",
+    "subtitle": "Dünyanın dört bir yanındaki salon ve atölyelerimizi ziyaret edin.",
+    "viewMap": "Haritayı aç",
+    "address": "Adres",
+    "hours": "Çalışma saatleri",
+    "phone": "Telefon",
+    "email": "E-posta"
+  },
+  "legal": {
+    "privacyTitle": "Gizlilik Politikası",
+    "privacyBody1": "Bu gizlilik bildirimi, Sign Foreign Trade (Sign Dış Ticaret) tarafından web sitemizi gezerken, bültenlere abone olurken veya concierge ekibimizle iletişime geçerken kişisel verilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.",
+    "privacyBody2": "İletişim bilgileri ve proje notları yalnızca hizmet taleplerini yerine getirmek için toplanır. Veriler Firebase üzerinden güvenli şekilde saklanır ve talep edilmesi halinde silinebilir.",
+    "privacyBody3": "Sorularınız için lütfen info@sign-d.net ile iletişime geçin.",
+    "termsTitle": "Şartlar ve Koşullar",
+    "termsBody1": "Sign Foreign Trade (Sign Dış Ticaret) dijital deneyimlerine erişerek, içeriklerin, fotoğrafların veya ticari markaların önceden izin alınmadan yeniden kullanılmayacağını kabul etmiş olursunuz. Tüm satın alımlar ve özel siparişler, teslimat kapsamı, takvim ve ödeme planlarını belirten imzalı proje sözleşmelerine tabidir.",
+    "termsBody2": "Bu siteyi kullanmak, gizlilik bildirimi ve çerez politikalarının kabul edildiği anlamına gelir. Uygulanacak hukuk İtalya hukukudur ve uyuşmazlıklar Milano'da çözümlenir."
+  },
+  "products": {
+    "title": "Koleksiyon",
+    "subtitle": "Küratörlü silüetler ve özel üretim mobilyalar.",
+    "filter": {
+      "all": "Tümü"
+    },
+    "empty": "Ürün bulunamadı",
+    "card": {
+      "view": "Ürünü Gör"
+    }
+  },
+  "projects": {
+    "title": "Çalışmalarımız",
+    "subtitle": "Seçilmiş otelcilik, konut ve ticari projeler.",
+    "view": "Projeyi Gör",
+    "empty": "Proje bulunamadı"
+  },
+  "project": {
+    "year": "Yıl",
+    "type": "Tür",
+    "location": "Konum",
+    "related": "İlgili Ürünler",
+    "gallery": "Galeri",
+    "breadcrumb": {
+      "projects": "Projeler"
+    }
+  },
+  "stores": {
+    "title": "Konumlarımız",
+    "subtitle": "Küresel tasarım adreslerimizi ziyaret edin.",
+    "hours": "Çalışma Saatleri",
+    "directions": "Yol Tarifi Al",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres"
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Mobilya, tedarik ve iç mekân projeleri için ekibimizle konuşun.",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "office": "Genel Merkez"
+  },
+  "about": {
+    "title": "Hikayemiz",
+    "subtitle": "Otuz yıllık işçilikle şekillenen iç mekânlar.",
+    "craftsmanship": {
+      "title": "Ustalık",
+      "quote": "İncelikle işlenen detaylar, kalıcı mekânlar oluşturur.",
+      "description": "Sabırla seçilmiş malzemeler ve el işçiliği detaylarla rafine iç mekânlar şekillendiriyoruz."
+    },
+    "timeline": {
+      "title": "Yolculuğumuz",
+      "1994": {
+        "title": "Zanaat kökleri",
+        "description": "Mobilya ve dekor üretimindeki temelimiz atıldı."
+      },
+      "2008": {
+        "title": "Üretim ve dağıtım",
+        "description": "Premium mobilya ve seçkin dekor çizgilerinde büyüdük."
+      },
+      "2018": {
+        "title": "Anahtar teslim iç mekânlar",
+        "description": "Farklı sektörlerde entegre iç mekân konseptleri sunmaya başladık."
+      },
+      "2024": {
+        "title": "Küresel concierge",
+        "description": "Çok dilli sunumlar ve proje koordinasyonu uluslararası müşterilere ulaştı."
+      }
+    },
+    "stats": {
+      "title": "Rakamlarla Biz"
+    }
+  },
+  "whatsapp": {
+    "tooltip": "Bizimle sohbet edin",
+    "message": "Merhaba, mobilyalarınızla ilgileniyorum"
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası"
+  },
+  "terms": {
+    "title": "Kullanım Şartları"
+  },
+  "notfound": {
+    "title": "Sayfa Bulunamadı",
+    "message": "Aradığınız sayfa mevcut değil",
+    "back": "Ana Sayfaya Dön"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "back": "Geri",
+    "view_all": "Tümünü Gör",
+    "learn_more": "Daha Fazla",
+    "contact_us": "Bize Ulaşın"
+  }
+}

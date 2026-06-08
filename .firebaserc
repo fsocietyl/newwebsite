@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "newsite1-c21ae",
+    "prod": "newsite1-c21ae",
+    "pord": "newsite1-c21ae"
+  },
+  "targets": {
+    "newsite1-c21ae": {
+      "hosting": {
+        "newsite1-c21ae": [
+          "newsite1-c21ae"
+        ],
+        "sign-d": [
+          "sign-d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

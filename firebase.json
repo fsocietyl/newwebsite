@@ -1,0 +1,54 @@
+{
+  "hosting": [
+    {
+      "target": "newsite1-c21ae",
+      "public": "out",
+      "cleanUrls": true,
+      "trailingSlash": true,
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        { "source": "/store", "destination": "/store/index.html" },
+        { "source": "/store/", "destination": "/store/index.html" },
+        { "source": "/store/cart", "destination": "/store/cart/index.html" },
+        { "source": "/store/cart/", "destination": "/store/cart/index.html" },
+        { "source": "/store/store-sample", "destination": "/store/store-sample/index.html" },
+        { "source": "/store/store-sample/", "destination": "/store/store-sample/index.html" },
+        { "source": "/store/store-sample-2", "destination": "/store/store-sample-2/index.html" },
+        { "source": "/store/store-sample-2/", "destination": "/store/store-sample-2/index.html" }
+      ],
+      "headers": [
+        {
+          "source": "/store/**",
+          "headers": [
+            { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+          ]
+        }
+      ]
+    },
+    {
+      "target": "sign-d",
+      "public": "out",
+      "cleanUrls": true,
+      "trailingSlash": true,
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        { "source": "/store", "destination": "/store/index.html" },
+        { "source": "/store/", "destination": "/store/index.html" },
+        { "source": "/store/cart", "destination": "/store/cart/index.html" },
+        { "source": "/store/cart/", "destination": "/store/cart/index.html" },
+        { "source": "/store/store-sample", "destination": "/store/store-sample/index.html" },
+        { "source": "/store/store-sample/", "destination": "/store/store-sample/index.html" },
+        { "source": "/store/store-sample-2", "destination": "/store/store-sample-2/index.html" },
+        { "source": "/store/store-sample-2/", "destination": "/store/store-sample-2/index.html" }
+      ],
+      "headers": [
+        {
+          "source": "/store/**",
+          "headers": [
+            { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+          ]
+        }
+      ]
+    }
+  ]
+}

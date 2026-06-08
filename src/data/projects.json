@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Istanbul Florya Residence",
+    "slug": "istanbul-florya",
+    "city": "Istanbul (Florya)",
+    "country": "Turkey",
+    "year": 2024,
+    "type": "residential",
+    "description": "Garden villa in Florya with carved timber pergolas, silk drapery, and salon seating curated by Sign Dış Ticaret.",
+    "images": [
+      "/projects-florya-1.webp",
+      "/projects-florya-2.webp",
+      "/projects-florya-3.webp",
+      "/projects-florya-4.webp",
+      "/projects-florya-5.webp",
+      "/projects-florya-6.webp",
+      "/projects-florya-7.webp",
+      "/projects-florya-8.webp",
+      "/projects-florya-9.webp",
+      "/projects-florya-10.webp",
+      "/projects-florya-11.webp"
+    ],
+    "relatedProductSlugs": [
+      "kastra-daybed",
+      "arcadia-platform-bed"
+    ],
+    "createdAt": "2024-03-01T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Garden villa in Florya with carved timber pergolas, silk drapery, and salon seating curated by Sign Dış Ticaret.",
+      "ar": "فيلا بحديقة في فلوريا تتميز ببرجولات خشبية منحوتة، وستائر حريرية، وجلسات صالون من تنفيذ Sign Dış Ticaret."
+    },
+    "name_tr": "İstanbul Florya Rezidans",
+    "name_ar": "اسطنبول فلوريا ريزيدنس",
+    "description_tr": "Florya'da oyma ahşap pergolaları, ipek perdeleri ve küratörlüğünü Sign Dış Ticaret'in yaptığı salon oturma düzeniyle bahçeli villa.",
+    "description_ar": "فيلا حديقة في فلوريا مع برجولات خشبية منحوتة وستائر حريرية ومقاعد صالون برعاية Sign Dış Ticaret.",
+    "type_tr": "Konut",
+    "type_ar": "سكني",
+    "city_tr": "İstanbul (Florya)",
+    "city_ar": "إسطنبول (Florya)",
+    "country_tr": "Türkiye",
+    "country_ar": "ديك رومى"
+  },
+  {
+    "name": "OIS Istanbul Meslek 1453",
+    "slug": "ois-istanbulmeslek-1453",
+    "city": "Istanbul (Meslek)",
+    "country": "Turkey",
+    "year": 2024,
+    "type": "institutional",
+    "description": "Comprehensive interiors program for OIS Istanbul Meslek 1453 featuring warm timber, brass inlays, and lounge seating crafted by Sign Dış Ticaret.",
+    "images": [
+      "/projects-meslek-1.webp",
+      "/projects-meslek-2.webp",
+      "/projects-meslek-3.webp",
+      "/projects-meslek-4.webp",
+      "/projects-meslek-5.webp"
+    ],
+    "relatedProductSlugs": [
+      "noir-bar-cabinet"
+    ],
+    "createdAt": "2024-03-02T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Comprehensive interiors program for OIS Istanbul Meslek 1453 featuring warm timber, brass inlays, and lounge seating crafted by Sign Dış Ticaret.",
+      "ar": "برنامج تصميم داخلي متكامل لمدرسة OIS Istanbul Meslek 1453 يضم خشباً دافئاً، وحشوات نحاسية، ومساحات جلوس فاخرة من توقيع Sign Dış Ticaret."
+    },
+    "name_tr": "OIS İstanbul Meslek 1453",
+    "name_ar": "أويس اسطنبول مسلك 1453",
+    "description_tr": "OIS İstanbul Meslek 1453 için Sign Dış Ticaret tarafından hazırlanmış sıcak ahşap, pirinç kaplamalar ve salon oturma yerlerinin yer aldığı kapsamlı iç mekan programı.",
+    "description_ar": "برنامج داخلي شامل لـ OIS اسطنبول Meslek 1453 يتميز بالخشب الدافئ والتطعيمات النحاسية ومقاعد الصالة التي صممتها شركة Sign Dış Ticaret.",
+    "type_tr": "Kurumsal",
+    "type_ar": "مؤسسي",
+    "city_tr": "İstanbul (Meslek)",
+    "city_ar": "إسطنبول (Meslek)",
+    "country_tr": "Türkiye",
+    "country_ar": "ديك رومى"
+  },
+  {
+    "name": "Monte Residence",
+    "slug": "monte-residence",
+    "city": "Monaco",
+    "country": "Monaco",
+    "year": 2022,
+    "type": "residential",
+    "description": "A private residence with custom marble installations and Atelier Aurelia living suites.",
+    "images": [
+      "/images/hero-3.svg",
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "roma-lounge-sofa",
+      "aurelia-master-bed"
+    ],
+    "createdAt": "2024-03-03T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "A private residence with custom marble installations and Atelier Aurelia living suites.",
+      "ar": "مسكن خاص يضم تنصيبات رخامية مخصصة وأجنحة معيشة من Atelier Aurelia مصممة حسب الطلب."
+    },
+    "name_tr": "Monte Rezidansı",
+    "name_ar": "مونتي ريزيدنس",
+    "description_tr": "Özel mermer döşemelere ve Atelier Aurelia oturma süitlerine sahip özel bir konut.",
+    "description_ar": "مسكن خاص مع تركيبات رخامية مخصصة وأجنحة معيشة Atelier Aurelia.",
+    "type_tr": "Konut",
+    "type_ar": "سكني",
+    "city_tr": "Monako",
+    "city_ar": "موناكو",
+    "country_tr": "Monako",
+    "country_ar": "موناكو"
+  },
+  {
+    "name": "Noir Members Club",
+    "slug": "noir-members-club",
+    "city": "London",
+    "country": "UK",
+    "year": 2023,
+    "type": "hospitality",
+    "description": "Private club with layered lighting, custom banquettes, and immersive lounge environments.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "noir-club-chair"
+    ],
+    "createdAt": "2024-03-04T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Private club with layered lighting, custom banquettes, and immersive lounge environments.",
+      "ar": "نادي أعضاء خاص بإضاءة متعددة الطبقات، ومقاعد مخصصة، وأجواء لاونج غامرة."
+    },
+    "name_tr": "Noir Üye Kulübü",
+    "name_ar": "نادي أعضاء نوير",
+    "description_tr": "Katmanlı aydınlatma, özel banketler ve sürükleyici dinlenme salonu ortamlarına sahip özel kulüp.",
+    "description_ar": "نادي خاص مزود بإضاءة متعددة الطبقات ومآدب مخصصة وبيئات صالة غامرة.",
+    "type_tr": "Otelcilik",
+    "type_ar": "ضيافة",
+    "city_tr": "Londra",
+    "city_ar": "لندن",
+    "country_tr": "İngiltere",
+    "country_ar": "المملكة المتحدة"
+  },
+  {
+    "name": "Sapphire Boutique",
+    "slug": "sapphire-boutique",
+    "city": "Paris",
+    "country": "France",
+    "year": 2021,
+    "type": "retail",
+    "description": "Flagship lighting showroom celebrating Murano-inspired installations.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "sapphire-chandelier"
+    ],
+    "createdAt": "2024-03-05T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Flagship lighting showroom celebrating Murano-inspired installations.",
+      "ar": "صالة عرض إضاءة رئيسية تحتفي بتركيبات مستوحاة من مورانو."
+    },
+    "name_tr": "Safir Butik",
+    "name_ar": "بوتيك الياقوت",
+    "description_tr": "Murano'dan ilham alan kurulumları kutlayan amiral gemisi aydınlatma sergi salonu.",
+    "description_ar": "صالة عرض إضاءة رائدة تحتفل بالتركيبات المستوحاة من فن المورانو.",
+    "type_tr": "Perakende",
+    "type_ar": "تجزئة",
+    "city_tr": "Paris",
+    "city_ar": "باريس",
+    "country_tr": "Fransa",
+    "country_ar": "فرنسا"
+  },
+  {
+    "name": "Andalus Spa Retreat",
+    "slug": "andalus-spa-retreat",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "year": 2022,
+    "type": "hospitality",
+    "description": "Immersive spa with carved stone tables and bespoke accessories.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "obsidian-console"
+    ],
+    "createdAt": "2024-03-06T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Immersive spa with carved stone tables and bespoke accessories.",
+      "ar": "منتجع سبا غامر مع طاولات حجرية منحوتة واكسسوارات مصممة حسب الطلب."
+    },
+    "name_tr": "Endülüs Spa Dinlencesi",
+    "name_ar": "منتجع الأندلس سبا",
+    "description_tr": "Oymalı taş masalar ve özel yapım aksesuarlarla etkileyici spa.",
+    "description_ar": "منتجع صحي غامر يضم طاولات حجرية منحوتة وإكسسوارات مخصصة.",
+    "type_tr": "Otelcilik",
+    "type_ar": "ضيافة",
+    "city_tr": "Marakeş",
+    "city_ar": "مراكش",
+    "country_tr": "Fas",
+    "country_ar": "المغرب"
+  },
+  {
+    "name": "Harbor Boardroom",
+    "slug": "harbor-boardroom",
+    "city": "New York",
+    "country": "USA",
+    "year": 2023,
+    "type": "retail",
+    "description": "Corporate suite featuring custom conference tables and lighting grid.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "obsidian-coffee-table"
+    ],
+    "createdAt": "2024-03-07T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Corporate suite featuring custom conference tables and lighting grid.",
+      "ar": "جناح إداري يضم طاولات اجتماعات مخصصة وشبكة إضاءة معمارية."
+    },
+    "name_tr": "Liman Toplantı Odası",
+    "name_ar": "قاعة اجتماعات هاربور",
+    "description_tr": "Özel konferans masaları ve aydınlatma ızgarası içeren kurumsal süit.",
+    "description_ar": "جناح الشركات يضم طاولات مؤتمرات مخصصة وشبكة إضاءة.",
+    "type_tr": "Perakende",
+    "type_ar": "تجزئة",
+    "city_tr": "New York",
+    "city_ar": "نيويورك",
+    "country_tr": "Amerika",
+    "country_ar": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "name": "Elysian Resort",
+    "slug": "elysian-resort",
+    "city": "Bodrum",
+    "country": "Turkey",
+    "year": 2023,
+    "type": "hospitality",
+    "description": "Coastal resort with Kastra Living suites and indoor-outdoor lounges.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "kastra-lounge-chair"
+    ],
+    "createdAt": "2024-03-08T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Coastal resort with Kastra Living suites and indoor-outdoor lounges.",
+      "ar": "منتجع ساحلي مع أجنحة Kastra Living ولاونجات داخلية وخارجية مترابطة."
+    },
+    "name_tr": "Elysian Resort",
+    "name_ar": "منتجع إليسيان",
+    "description_tr": "Kastra Living süitleri ve açık-kapalı dinlenme salonlarıyla sahil beldesi.",
+    "description_ar": "منتجع ساحلي يضم أجنحة Kastra Living وصالات داخلية وخارجية.",
+    "type_tr": "Otelcilik",
+    "type_ar": "ضيافة",
+    "city_tr": "Bodrum",
+    "city_ar": "بودروم",
+    "country_tr": "Türkiye",
+    "country_ar": "ديك رومى"
+  },
+  {
+    "name": "Aurora Tower Lobby",
+    "slug": "aurora-tower-lobby",
+    "city": "Doha",
+    "country": "Qatar",
+    "year": 2022,
+    "type": "retail",
+    "description": "Skyscraper lobby with double-height sculpture walls and bespoke chandeliers.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "sapphire-floor-lamp"
+    ],
+    "createdAt": "2024-03-09T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Skyscraper lobby with double-height sculpture walls and bespoke chandeliers.",
+      "ar": "ردهة برج شاهق بجدران نحتية مزدوجة الارتفاع وثريات مصممة خصيصاً."
+    },
+    "name_tr": "Aurora Kulesi Lobisi",
+    "name_ar": "ردهة برج أورورا",
+    "description_tr": "Çift yükseklikte heykel duvarları ve özel yapım avizeleri olan gökdelen lobisi.",
+    "description_ar": "ردهة ناطحة سحاب تتميز بجدران منحوتة مزدوجة الارتفاع وثريات مخصصة.",
+    "type_tr": "Perakende",
+    "type_ar": "تجزئة",
+    "city_tr": "Doha",
+    "city_ar": "الدوحة",
+    "country_tr": "Katar",
+    "country_ar": "قطر"
+  },
+  {
+    "name": "Atlas Hotel Suites",
+    "slug": "atlas-hotel-suites",
+    "city": "Madrid",
+    "country": "Spain",
+    "year": 2024,
+    "type": "hospitality",
+    "description": "Boutique hotel suites layered with Atelier Aurelia upholstery and Mira accessories.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "linea-modular-sofa"
+    ],
+    "createdAt": "2024-03-10T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Boutique hotel suites layered with Atelier Aurelia upholstery and Mira accessories.",
+      "ar": "أجنحة فندقية بوتيكية بطبقات من تنجيد Atelier Aurelia واكسسوارات Mira."
+    },
+    "name_tr": "Atlas Otel Süitleri",
+    "name_ar": "أجنحة أطلس الفندقية",
+    "description_tr": "Atelier Aurelia döşemeler ve Mira aksesuarlarıyla süslenmiş butik otel süitleri.",
+    "description_ar": "أجنحة فندقية بوتيكية مزودة بتنجيد Atelier Aurelia وإكسسوارات Mira.",
+    "type_tr": "Otelcilik",
+    "type_ar": "ضيافة",
+    "city_tr": "Madrid",
+    "city_ar": "مدريد",
+    "country_tr": "İspanya",
+    "country_ar": "إسبانيا"
+  },
+  {
+    "name": "Siena Heritage Villa",
+    "slug": "siena-heritage-villa",
+    "city": "Siena",
+    "country": "Italy",
+    "year": 2021,
+    "type": "residential",
+    "description": "Restored villa celebrating handcrafted timber work and tailored bedrooms.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "heritage-canopy-bed"
+    ],
+    "createdAt": "2024-03-11T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Restored villa celebrating handcrafted timber work and tailored bedrooms.",
+      "ar": "فيلا تاريخية مجددة تحتفي بالأعمال الخشبية اليدوية وغرف النوم المصممة بعناية."
+    },
+    "name_tr": "Siena Miras Villası",
+    "name_ar": "فيلا سيينا التراثية",
+    "description_tr": "El işi ahşap işleri ve özel yapım yatak odaları ile öne çıkan, restore edilmiş villa.",
+    "description_ar": "فيلا تم تجديدها تحتفل بالأعمال الخشبية المصنوعة يدويًا وغرف النوم المصممة خصيصًا.",
+    "type_tr": "Konut",
+    "type_ar": "سكني",
+    "city_tr": "Siena",
+    "city_ar": "سيينا",
+    "country_tr": "İtalya",
+    "country_ar": "إيطاليا"
+  },
+  {
+    "name": "Azure Retail Loft",
+    "slug": "azure-retail-loft",
+    "city": "Los Angeles",
+    "country": "USA",
+    "year": 2024,
+    "type": "retail",
+    "description": "Gallery retail concept for Arcadia Atelier featuring flexible display plinths.",
+    "images": [
+      "/images/placeholder.svg"
+    ],
+    "relatedProductSlugs": [
+      "arcadia-media-console"
+    ],
+    "createdAt": "2024-03-12T00:00:00.000Z",
+    "descriptionTranslations": {
+      "en": "Gallery retail concept for Arcadia Atelier featuring flexible display plinths.",
+      "ar": "مفهوم بيع على هيئة غاليري لـ Arcadia Atelier مع قواعد عرض مرنة."
+    },
+    "name_tr": "Azure Perakende Loft",
+    "name_ar": "أزور ريتيل لوفت",
+    "description_tr": "Arcadia Atelier için esnek teşhir kaidelerine sahip galeri perakende konsepti.",
+    "description_ar": "مفهوم البيع بالتجزئة في معرض Arcadia Atelier الذي يتميز بقواعد عرض مرنة.",
+    "type_tr": "Perakende",
+    "type_ar": "تجزئة",
+    "city_tr": "Los Angeles",
+    "city_ar": "لوس أنجلوس",
+    "country_tr": "Amerika",
+    "country_ar": "الولايات المتحدة الأمريكية"
+  }
+]
